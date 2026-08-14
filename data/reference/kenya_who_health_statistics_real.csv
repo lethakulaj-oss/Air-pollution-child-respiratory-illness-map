@@ -1,0 +1,12 @@
+metric,value,unit,year,source
+Outdoor PM2.5 attributable deaths,4710,deaths,2017,"State of Global Air, Kenya Fact Sheet"
+Household air pollution attributable deaths,14000,deaths,2017,"State of Global Air, Kenya Fact Sheet"
+Population living below WHO least-stringent PM2.5 target (35 ug/m3),21,percent,2017,"State of Global Air, Kenya Fact Sheet"
+Population living above WHO Air Quality Guideline (10 ug/m3 old standard),100,percent,2017,"State of Global Air, Kenya Fact Sheet"
+Pneumonia share of under-5 deaths in Kenya,14,percent,2019,"UNESCO Journal, Kenya National Commission"
+Household air pollution share of global pneumonia deaths under 5,45,percent,2014,"WHO Africa Regional Office"
+Nairobi premature deaths attributable to air pollution,8000,deaths per year,2023,"Science Africa / WRI Africa"
+Nairobi PM2.5 vs WHO guideline,4,times higher,2023,"GEOHealth Hub via Science Africa"
+Mathare informal settlement PM2.5 peak,57,ug/m3,2023,"Science Africa / local sensor data"
+Daily reported pneumonia cases nationally,5000,cases per day,2023,"Kenya Economic Survey 2023"
+SHOFCO Nairobi hospital visits linked to air pollution,80,percent,2023,"Science Africa / SHOFCO clinic data"

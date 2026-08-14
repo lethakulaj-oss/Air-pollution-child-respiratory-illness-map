@@ -1,0 +1,17 @@
+indicator_code,indicator_name
+AIR_4,Ambient air pollution attributable deaths in children under 5 years
+AIR_6,Ambient air pollution attributable deaths per 100'000 children under 5 years
+AIR_8,Ambient air pollution attributable DALYs in children under 5 years
+AIR_10,Ambient air pollution attributable DALYs per 100'000 children under 5 years
+AIR_12,Household air pollution attributable deaths in children under 5 years
+AIR_14,Household air pollution attributable deaths per 100'000 children under 5 years
+AIR_16,Household air pollution attributable DALYs in children under 5 years
+AIR_18,Household air pollution attributable DALYs per 100'000 children under 5 years
+AIR_36,Joint effects of air pollution attributable deaths in children under 5 years
+AIR_63,Household and ambient air pollution attributable DALYs in children under 5 years ('000)
+AIR_3_1,Percent of urban inhabitants living in cities covered by PM measurements
+AIR_41,Ambient air pollution attributable deaths
+AIR_42,"Ambient air pollution attributable death rate (per 100 000 population, age-standardized)"
+carep,Children aged < 5 years with pneumonia symptoms taken to a health facility (%)
+MORT_100,"Number of deaths in children aged <5 years, by cause"
+MORT_300,Distribution of causes of death among children aged < 5 years (%)

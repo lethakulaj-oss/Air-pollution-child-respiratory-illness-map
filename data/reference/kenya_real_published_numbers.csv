@@ -1,0 +1,12 @@
+location,measurement_type,value,unit,source,year
+Nairobi (city-wide average, IQAir),PM2.5 annual average,14.7,ug/m3,IQAir monitoring network,2020
+Nairobi (central monitor, University of Nairobi),PM2.5 annual mean,18.4,ug/m3,"Oguge et al., Environmental Epidemiology 2024",2019-2022
+Nairobi (24hr mean, central monitor),PM2.5 daily average,19.2,ug/m3,"Oguge et al., Environmental Epidemiology 2024",2019-2022
+Nairobi metro area (satellite+sensor fusion),PM2.5 average,21.7,ug/m3,"East African City Centers study, PMC",2019-2023
+Viwandani (industrial informal settlement Nairobi),PM2.5 24hr peak,111.87,ug/m3,"Spatial Extent PM2.5 Nairobi study, PMC",N/A
+Viwandani (industrial informal settlement Nairobi),PM2.5 monthly range,"22.4-39.6",ug/m3,"West et al. 2020, cited in Air pollution in Kenya review",N/A
+Karura (forested reference site Nairobi),PM2.5 24hr average,21.25,ug/m3,"Spatial Extent PM2.5 Nairobi study, PMC",N/A
+WHO annual guideline,PM2.5 safe threshold,5,ug/m3,WHO 2021 Air Quality Guidelines,2021
+Kenya,total population,47558296,people,2019 official census,2019
+Kenya,total population (estimate),53350000,people,2025 UN/Trading Economics estimate,2025
+Kenya,children total (under 18),12300000,people,UNICEF Kenya Situation of Children report,2022
